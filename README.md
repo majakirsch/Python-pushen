@@ -16,3 +16,6 @@
 --------------------------------------------------------------------------------------------------------------------
 ### 18.05.2016
   * zweiter Tag bei der SAP
+  * ging gut bis zu Unite 3 Lesson PygLatin 10. Aufgabe 
+   * nach etwas überlegen und nach gucken im Q&A Forum war es dann aber doch möglich zu logisch 
+  * 
