@@ -19,3 +19,9 @@
   * ging gut bis zu Unite 3 Lesson PygLatin 10. Aufgabe 
    * nach etwas überlegen und nach gucken im Q&A Forum war es dann aber doch möglich zu logisch 
   * ich vergess immer wieder die Doppelpunkte hinter einer Definition oder nach if/elif/else
+
+
+---------------------------------------------------------------------------------------------------------------------
+### 19.05.2016
+  * nachdem der ssh-key generiert ist, in Documents gucken oder dem PC selbst dann Ordner öffnen mit Username dannach Ordner ssh und darin ist dan der key den man mit dem Editor seiner Wahl öffnen kann und strg a, strg c, paste und schon ist der key geaddet
+  * 
