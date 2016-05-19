@@ -24,4 +24,5 @@
 ---------------------------------------------------------------------------------------------------------------------
 ### 19.05.2016
   * nachdem der ssh-key generiert ist, in Documents gucken oder dem PC selbst dann Ordner öffnen mit Username dannach Ordner ssh und darin ist dan der key den man mit dem Editor seiner Wahl öffnen kann und strg a, strg c, paste und schon ist der key geaddet
-  * 
+  * wer zu blöd ist davor zu schreiben von welchem string ein slice haben möchte verdient es nicht anders als eine viertel Stunde davor zu sitzen und zu überlegen warum es nicht funktioniert 
+  * richtige Schreibweise ist höchste Priorität sonst funktioniert der gesammte Code nicht auch wenn es nur ein 's' ist das day zu days macht (z.B. trip.py)
